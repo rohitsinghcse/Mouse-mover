@@ -7,7 +7,6 @@ import java.lang.*;
 public class Mouse {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		 //Date object
 		 Date date= new Date();
 	         //getTime() returns current time in milliseconds
@@ -29,8 +28,6 @@ public class Mouse {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		
-	
 		 System.out.println("Current Time Stamp: "+ts);
 	}
 
